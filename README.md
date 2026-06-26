@@ -103,4 +103,4 @@ This tool is intended for educational purposes. Never test passwords you activel
 
 ## Author
 
-Built by [Your Name] — BYU Information Systems Student
+Built by Drew Gladwell — BYU Information Systems Student
